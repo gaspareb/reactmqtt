@@ -4,7 +4,7 @@
 
 This application was built in order to visualize the ability to render in a React application messages from a broker. The test used was using the HiveMQ Cloud. 
 
-## You will need a .env file with the following items in it. 
+## You will need a .env file with the following items in it.  
 
 REACT_APP_MQTTPORT=the port your broker is running on - Example: 8803 or 8804
 REACT_APP_MQTTPROTOCOL=the protocol you are using to connect - Example: mqtts
