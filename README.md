@@ -7,15 +7,16 @@ This application was built in order to visualize the ability to render in a Reac
 ## You will need a .env file with the following items in it.  
 
 REACT_APP_MQTTPORT=the port your broker is running on - Example: 8803 or 8804
+
 REACT_APP_MQTTPROTOCOL=the protocol you are using to connect - Example: mqtts
+
 REACT_APP_MQTTHOST=the host url you are connecting to - Example: something.cloud.blah.blah.blah
+
 REACT_APP_MQTTUSERNAME= the username - Example: something
+
 REACT_APP_MQTTPSSD = the password - Example: somethingReallyHardToGuess
+
 REACT_APP_CLIENT_ID= the clientID you want to associate to this connection - Example: myClientID
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
